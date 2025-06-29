@@ -1,0 +1,7 @@
+{
+  "name": "myhscode-checker",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "echo 'No build step needed'"
+  }
+}

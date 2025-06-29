@@ -1,0 +1,1 @@
+console.log('Supabase connection script loaded');
